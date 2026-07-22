@@ -156,7 +156,7 @@ export const STARTER_TEMPLATES: StarterTemplate[] = [
       aspectRatio: '4:5',
       themeId: 'kt-default',
       logoType: 'default',
-      orgName: 'Karang Taruna Unit 08',
+      orgName: 'Karang Taruna Sukamaju',
       author: 'Panitia HUT RI',
       captionText: `🇮🇩 GEBYAR KEMERDEKAAN RI KE-81 🇮🇩\n\nSambut Hari Kemerdekaan dengan penuh semangat! Karang Taruna mempersembahkan Rangkaian Lomba 17 Agustus untuk anak-anak, remaja, dan dewasa.\n\nTotal Hadiah Jutaan Rupiah + Tropy Juara Umum! 🏆🎁\n\nDaftar sekarang sebelum kuota penuh!`,
       hashtags: ['17Agustus', 'HUTRI81', 'IndonesiaMaju', 'LombaAgustusan', 'KarangTaruna', 'Merdeka'],
