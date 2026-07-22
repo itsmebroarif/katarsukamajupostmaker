@@ -137,7 +137,7 @@ export const STARTER_TEMPLATES: StarterTemplate[] = [
           bgType: 'solid',
           bgColor: '#2A9D8F',
           ctaPhone: '+62 857-1122-3344 (Rian)',
-          ctaIg: '@kt.tunasbangsa',
+          ctaIg: '@sukamaju.katar',
           ctaLocation: 'Lapangan Desa Sukamaju',
         },
       ],
