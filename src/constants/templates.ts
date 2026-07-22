@@ -83,7 +83,7 @@ export const STARTER_TEMPLATES: StarterTemplate[] = [
       aspectRatio: '4:5',
       themeId: 'kt-emerald',
       logoType: 'default',
-      orgName: 'Karang Taruna Tunas Bangsa',
+      orgName: 'Karang Taruna Sukamaju Depok',
       author: 'Bidang Lingkungan Hidup',
       captionText: `🌱 BERSAMA JAGA KEBERSIHAN LINGKUNGAN 🌱\n\nYuk ikutan Kerja Bakti Akbar Pemuda Karang Taruna! Kita bersihkan selokan, rapikan taman desa, dan cat gapura warga.\n\nJangan lupa bawa alat kerja bakti masing-masing ya! Makanan & kopi disediakan gratis ☕🍩`,
       hashtags: ['KerjaBakti', 'GotongRoyong', 'BersihDesa', 'KarangTarunaPeduli', 'PemudaHijau'],
