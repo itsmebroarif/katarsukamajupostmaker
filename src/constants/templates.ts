@@ -147,7 +147,7 @@ export const STARTER_TEMPLATES: StarterTemplate[] = [
     id: 'tpl-hut-ri',
     name: 'Peringatan HUT RI 17 Agustus',
     category: 'hari_besar',
-    description: 'Carousel pengumuman lomba 17-an kemerdekaan RI super meriah.',
+    description: 'Carousel pengumuman lomba 17-an kemerdekaan RI.',
     badge: 'HUT RI',
     slideCount: 5,
     projectData: {
